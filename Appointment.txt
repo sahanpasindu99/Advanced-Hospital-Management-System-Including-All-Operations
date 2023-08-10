@@ -1,0 +1,12 @@
+-------STARLIGHT HOSPITAL------
+
+-Appointment Details-
+
+     Appointment ID :ntehq
+    Date :Nov 8, 2022
+    Doctor ID :D883
+    Doctor Name :Abrahim
+    Patient Name :xvs
+    Patient Code :84411
+    Test Type :Kideney Test
+    Cost(Basic):6490.0
